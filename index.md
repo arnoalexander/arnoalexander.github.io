@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% for post in site.posts %}
+  # [](#header-1)<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).

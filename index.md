@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <h1><a href="{{ post.url }}" style="color: inherit">{{ post.title }}</a></h1>
 {% endfor %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

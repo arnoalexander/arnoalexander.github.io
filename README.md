@@ -1,2 +1,2 @@
 # arnoalexander.github.io
-WIP
+personal website of projects and thoughts

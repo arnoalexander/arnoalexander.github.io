@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: Arno Alexander
 description: projects and thoughts
+excerpt_separator: "<!--endofpreview-->"

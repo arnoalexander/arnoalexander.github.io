@@ -14,5 +14,5 @@ categories: article
 <p>Perangkat BCI dapat juga ditanamkan ke dalam otak. Saat ini, Neuralink sedang mengembangkan BCI dengan misi menyatukan pikiran manusia dengan mesin dan juga memaksimalkan potensi otak. Salah satu ide yang diusulkan, didukung Elon Musk, adalah neural lace. Neural lace adalah jaring-jaring tipis yang ditanamkan ke dalam otak. Kemampuan yang dimiliki tidak hanya untuk menerima sinyal, namun juga mentransfer data ke otak. Jadi, telepati dapat dilakukan, baik dengan komputer maupun otak orang lain yang juga ditanami neural lace. Dengan adanya kemampuan telepati ini, privasi pengguna neural lace dipertanyakan. Namun, teknologi ini tetap merupakan sebuah ide besar di dunia BCI.</p>
 <br>
 <p>Sumber:</p>
-<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497935/figure/fig2/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497935/figure/fig2/</a></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497935/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497935/</a></p>
 <p><a href="https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs">https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs</a></p>
